@@ -11,4 +11,4 @@ The above is obtained by Julia plots. The "Plots" package is still very buggy fo
 
 ![plot_tent_map2](https://user-images.githubusercontent.com/55867762/196038527-6f4c4cd7-a555-4fd7-b415-de596753c306.png)
 
-Tent map in Julia. Took around ~3-4 min (on i5 8265u) for this to graph
+Tent map in Julia. Took around ~3-4 min (on i5 8265u) for this graph to plot

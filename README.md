@@ -1,6 +1,6 @@
-Logistic map implemented in python and Julia. 
+# Logistic map implemented in python and Julia. 
 
-## Here, the y-axis represents the x_{n} after Nth iterations. While, x-axis represents the parameter r. 
+## Here, the y-axis represents the x_n after Nth iterations. While, x-axis represents the parameter r. 
 
 
 Set number of points in r to 10000 and points in X to 400 to generate this graph (for python, took around ~10 mins (on i5 8265u) to give the following graph)

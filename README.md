@@ -22,3 +22,12 @@ The above is obtained by Julia plots. The "Plots" package is still very buggy fo
 Tent map in Julia. Took around ~3-4 min (on i5 8265u) for this graph to plot
 
 ![plot_tent_map2](https://user-images.githubusercontent.com/55867762/196038527-6f4c4cd7-a555-4fd7-b415-de596753c306.png)
+
+# Gauss map
+
+## x(n+1) = exp(-ax^2) + b
+
+Gauss map in Julia. Here, there are two parameters in t
+he map. We can make a 3-d map for this one. For now, below is the bifurcation diagram for a = 6.2
+
+![plot_gauss_map](https://user-images.githubusercontent.com/55867762/196057822-00614dd2-5587-40dc-950a-79047ca1f99b.png)
